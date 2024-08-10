@@ -29,3 +29,17 @@ int main() {
  b = b>>2;
  cout<<b<<endl;
  }
+ /*output
+ Enter the first number:
+6
+Enter the second number:
+8
+0
+14
+14
+-7
+-9
+24
+32
+6
+8*/
